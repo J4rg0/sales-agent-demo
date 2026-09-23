@@ -15,7 +15,7 @@ Try `help`, `inventory door`, `customer C-101`, `pipeline`, and `brief O-502`. T
 
 ## Ask Codex to use the data tools
 
-From the repo root, add this local MCP server in Codex CLI (replace the path with the absolute path to your checkout):
+From the west-four-mock-agent directory, add this local MCP server in Codex CLI (replace the path with the absolute path to your checkout):
 
 ```bash
 codex mcp add mock-sales-data -- node /absolute/path/to/west-four-mock-agent/src/mcp.js
