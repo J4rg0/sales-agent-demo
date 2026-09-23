@@ -1,0 +1,12 @@
+{
+  "name": "west-four-mock-agent",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "demo": "node src/cli.js",
+    "mcp": "node src/mcp.js",
+    "test": "node --test"
+  },
+  "engines": { "node": ">=20" }
+}

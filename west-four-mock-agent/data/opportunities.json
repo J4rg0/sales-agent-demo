@@ -1,0 +1,4 @@
+[
+  {"id":"O-501","customerId":"C-101","project":"Office interior refresh","stage":"quote requested","items":[{"sku":"DOOR-100","quantity":8},{"sku":"TRIM-100","quantity":120}],"nextStep":"Confirm measurements and delivery date","lastUpdated":"2026-09-21"},
+  {"id":"O-502","customerId":"C-102","project":"Retail entry replacement","stage":"discovery","items":[{"sku":"DOOR-200","quantity":4}],"nextStep":"Confirm opening dimensions and preferred finish","lastUpdated":"2026-09-22"}
+]

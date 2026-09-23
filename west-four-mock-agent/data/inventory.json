@@ -1,0 +1,6 @@
+[
+  {"sku":"DOOR-100","name":"Interior solid-core door","category":"doors","available":12,"unit":"each","priceCad":285,"updated":"2026-09-20"},
+  {"sku":"DOOR-200","name":"Exterior insulated door","category":"doors","available":3,"unit":"each","priceCad":890,"updated":"2026-09-20"},
+  {"sku":"TRIM-100","name":"Primed MDF casing","category":"trim","available":240,"unit":"linear ft","priceCad":2.75,"updated":"2026-09-19"},
+  {"sku":"PANEL-100","name":"Wall panel, oak finish","category":"panels","available":18,"unit":"sheet","priceCad":145,"updated":"2026-09-18"}
+]
